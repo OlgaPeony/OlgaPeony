@@ -1,6 +1,6 @@
 # Hi, I’m @OlgaPeony
 
-- 📫 How to reach me kukuruzovks@gmail.com
+- 📫 How to reach me
 ---
 
 Beginer in Data analytics. 
