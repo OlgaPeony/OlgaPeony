@@ -8,7 +8,7 @@ Beginer in Data analytics.
 ---
 
 ## 🛠 Technical Stack
-*   Pyton languages, Numpy
+*   Pyton languages, NumPy
 *   Markdown
 
 
